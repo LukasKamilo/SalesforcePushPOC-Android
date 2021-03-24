@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433285038198",
+    "project_id": "salesforce-push-poc-3d535",
+    "storage_bucket": "salesforce-push-poc-3d535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433285038198:android:4c611fb72707b207775f57",
+        "android_client_info": {
+          "package_name": "com.lucascamilo.salesforcepushpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433285038198-qpcv2eqili6uunr7969pvnuag6ropeq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuDYaiv81aDhEnDCQIZMmQpwsb-85N7M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433285038198-qpcv2eqili6uunr7969pvnuag6ropeq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
